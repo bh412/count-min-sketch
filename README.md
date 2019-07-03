@@ -1,7 +1,7 @@
 # count-min-sketch
 ip application Java implementation
 
-Main file at `src/com.ipa/CountMin.java`
+Main file at `src/com/ipa/CountMin.java`
 
 Implements a count-min-sketch in Java. this is static/ no user way to change width/depth, could be added
 
